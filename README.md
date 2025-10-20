@@ -1,7 +1,7 @@
 <img width="972" height="473" alt="image" src="https://github.com/user-attachments/assets/954ed8e4-fb23-4b67-a6d6-202514c0ca8d" />
 Програма зчитує дані про 8 людей, включаючи ім’я, знак Зодіаку та дату народження, і зберігає їх у масиві структур Zodiak. Потім вона сортує масив за місяцем народження і виводить інформацію про людей, народжених у вказаний користувачем місяць, або повідомляє, якщо таких немає. Таким чином, користувач може швидко знайти людей за місяцем народження.
 
-<img width="548" height="778" alt="image" src="https://github.com/user-attachments/assets/1f5b0b13-2471-4eb9-a541-6de0f4afea1c" />
+<img width="588" height="788" alt="image" src="https://github.com/user-attachments/assets/70970f78-cb61-4d33-bb34-d9a96efeff67" />
 <img width="655" height="412" alt="image" src="https://github.com/user-attachments/assets/4b8d23aa-c922-46ab-a4f9-8051c57776c3" />
 <img width="1777" height="924" alt="image" src="https://github.com/user-attachments/assets/a4da60a7-ff6d-40b1-8187-2f31f115616f" />
 
