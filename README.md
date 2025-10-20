@@ -52,7 +52,8 @@ void printByMonth(Zodiak arr[], int size, int month) {
 int main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-
+```
+```
     const int SIZE = 8;
     Zodiak people[SIZE];
 
