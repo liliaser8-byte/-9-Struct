@@ -5,6 +5,8 @@
 <img width="655" height="412" alt="image" src="https://github.com/user-attachments/assets/4b8d23aa-c922-46ab-a4f9-8051c57776c3" />
 <img width="1777" height="924" alt="image" src="https://github.com/user-attachments/assets/a4da60a7-ff6d-40b1-8187-2f31f115616f" />
 ```
+
+```
 #include <iostream>
 #include <string>
 #include <windows.h> 
@@ -52,7 +54,6 @@ void printByMonth(Zodiak arr[], int size, int month) {
 int main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-```
 ```
     const int SIZE = 8;
     Zodiak people[SIZE];
