@@ -4,7 +4,7 @@
 <img width="588" height="788" alt="image" src="https://github.com/user-attachments/assets/70970f78-cb61-4d33-bb34-d9a96efeff67" />
 <img width="655" height="412" alt="image" src="https://github.com/user-attachments/assets/4b8d23aa-c922-46ab-a4f9-8051c57776c3" />
 <img width="1777" height="924" alt="image" src="https://github.com/user-attachments/assets/a4da60a7-ff6d-40b1-8187-2f31f115616f" />
-```
+
 
 ```
 #include <iostream>
@@ -81,8 +81,8 @@ int main() {
     // Виведення результату
     printByMonth(people, SIZE, searchMonth);
 
-    return 0;
-}
+    return 0; }
+
 ```
 Чек-лист знань (`checklist.md`)
 **Тема:** Структури (struct) у C++
